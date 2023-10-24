@@ -1,8 +1,6 @@
 <h1 align="center">Olá me chamo Gabriel, mais conhecido como D</h1>
 <h3 align="center">Pentester com foco em Analista de Qualidade</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=privgabriel&label=Profile%20views&color=0e75b6&style=flat" alt="privgabriel" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=privgabriel" alt="privgabriel" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
