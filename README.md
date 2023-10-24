@@ -2,7 +2,7 @@
 <h3 align="center">Pentester com foco em Analista de Qualidade</h3>
 
 <div align="center">
-  <strong>🌐 A luta pela liberdade na internet 🌐</strong>
+  <strong>🌐 Lute pela liberdade 🌐</strong>
 </div>
 
 
