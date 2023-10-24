@@ -2,7 +2,7 @@
 <h3 align="center">Pentester com foco em Analista de Qualidade</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif" alt="Pentester GIF" width="150" height="150" />
+  <img src="https://i.pinimg.com/originals/ca/ef/4b/caef4b4b74c7513cdc093500d0957b91.gif" alt="Pentester GIF" width="500" height="500" />
 </p>
 
 - 🔭 Estou trabalhando atualmente como **Analista de Qualidade**
