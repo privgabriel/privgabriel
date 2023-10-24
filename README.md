@@ -1,4 +1,3 @@
-<h1 align="center">Olá me chamo Gabriel, mais conhecido como D</h1>
 <h3 align="center">Pentester com foco em Analista de Qualidade</h3>
 
 <div align="center">
