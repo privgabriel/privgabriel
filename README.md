@@ -1,28 +1,41 @@
+<p align="center">
+  <img src="https://your-image-url.com/anonymous-logo.png" alt="Anonymous Logo" width="200">
+</p>
+
 # Anonymous Cyber Ops
 
-![Anonymous Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Anonymous_Art_of_Revolution.svg/500px-Anonymous_Art_of_Revolution.svg.png)
+<div align="center">
+  <strong>🌐 A luta pela liberdade na internet 🌐</strong>
+</div>
 
-## Seja bem-vindo à Anonymous Cyber Ops
+<br>
 
-Este é um projeto colaborativo para todos os entusiastas da segurança cibernética e defensores da privacidade. Nosso objetivo é promover a liberdade na internet e lutar contra a opressão digital. Junte-se a nós!
+<p align="center">
+  <a href="#objetivos">Objetivos</a> •
+  <a href="#instalação">Instalação</a> •
+  <a href="#uso">Uso</a> •
+  <a href="#contribuição">Contribuição</a> •
+  <a href="#contato">Contato</a>
+</p>
 
-## Visão Geral
-
-- [Objetivos](#objetivos)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Contato](#contato)
+<p align="center">
+  <img src="https://your-image-url.com/anonymous-gif.gif" alt="Anonymous GIF">
+</p>
 
 ## Objetivos
 
 Nossos principais objetivos são:
 
-1. Proteger a privacidade na internet.
-2. Combater a censura e a vigilância em massa.
-3. Promover a segurança cibernética e a educação.
-4. Unir esforços para lutar contra a injustiça digital.
+- Proteger a privacidade na internet.
+- Combater a censura e a vigilância em massa.
+- Promover a segurança cibernética e a educação.
+- Unir esforços para lutar contra a injustiça digital.
 
 ## Instalação
 
 Para participar da Anonymous Cyber Ops, siga as instruções abaixo:
+
+```bash
+git clone https://github.com/AnonymousCyberOps/Projeto.git
+cd Projeto
+npm install
