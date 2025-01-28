@@ -1,5 +1,3 @@
-# 💼 Portfólio - Gabriel
-
 Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará detalhes sobre minha trajetória profissional, habilidades e experiências. Sou um profissional apaixonado por tecnologia, inovação e segurança, sempre em busca de aprimorar minhas competências para entregar resultados excepcionais.
 
 ---
